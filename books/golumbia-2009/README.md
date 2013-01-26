@@ -74,7 +74,7 @@ Either in terms of what I know about the authors I've read in this area, or in
 my personal experience of the linguistics departments of UT Austin (which is
 non-Chomskyan, computational in both senses, and full of people who more or
 less fit this description) and UMD (which is deeply Chomskyan, computational
-primarily in the broad sense, and full of people who don't):
+primarily in the broad sense, and full of people who don't).
 
 The following may at least be true:
 
