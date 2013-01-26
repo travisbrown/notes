@@ -99,7 +99,7 @@ I'm happy to see Golumbia ragging on object-oriented programming:
 > the world is put together). (209)
 
 Even if he seems to be mixing up limitations of specific languages and
-implementations with deeper problems with the paradigm:
+implementations and deeper problems with the paradigm:
 
 > In the world of computers, though, objects do fit unto hierarchies neatly,
 > even if it is conceptually clear that the fit is poor. In the abstract
@@ -121,6 +121,9 @@ And picks non-obvious alternatives to highlight:
 > e.g., Filman, Elrad, Clarke, and Aksit 2004) and "Subject-Oriented
 > Programming" or SOP (see, e.g., Harrison and Ossher 1993). (210)
 
+I find it very hard to believe that he'd find AOP any less "objectifying" if
+he knew anything about it.
+
 The silly
 ---------
 
@@ -140,7 +143,7 @@ goes and refers to HTML as a scripting language:
 I'll probably eventually need a whole section for Golumbia's "Linguistic
 Computationalism" chapter, but for now this can go here:
 
-> ...(and even Chomsky's formalism, arguably the most hierarchical of current
+> ... (and even Chomsky's formalism, arguably the most hierarchical of current
 > linguistic theories, seems irreconcilable with anything like OHCO). (107)
 
 I've read the following four or five times in context and still have no idea
@@ -151,4 +154,11 @@ what he's on about:
 > proprietary systems that are used only metaphorically by others, or in
 > systems resembling the ones created by Wal-Mart, perhaps patented by it, and
 > then emulated by software companies and others. (174)
+
+At some point in my life I want to start a sentence like this:
+
+> While there is certainly no direct connection between [whatever I'm writing
+> about] and a program of genocidal extermination... (213)
+
+Golumbia fills in the blank with "the concentration of computing power".
 
