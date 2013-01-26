@@ -30,7 +30,7 @@ the Prince", and then changes the subject:
 
 > This passage displays the familiar rhetorical elements present in much of
 > Fodor's writing, including literary allusion that is striking in both its
-> cultural valense and its specific invocation of royal hierarchy (in that
+> cultural valence and its specific invocation of royal hierarchy (in that
 > _Hamlet_ is often discussed in terms of character without mentioning
 > Hamlet's royal standing). (70)
 
