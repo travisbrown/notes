@@ -91,10 +91,9 @@ The silly
 
 I know this is nitpicking, but for the record:
 
-> It [the concept of system in Derridabase] is rudimentary. It is less
-> elaborate than the kind of logical structure computer scientists call an
-> _algorithm_, or at any rate forms one of the most basic types of algorithm,
-> an ordered list. (18)
+> But its concept of system is rudimentary. It is less elaborate than the kind
+> of logical structure computer scientists call an _algorithm_, or at any rate
+> forms one of the most basic types of algorithm, an ordered list. (18)
 
 On the next page he starts riding one of my personal hobbyhorses, and then
 goes and refers to HTML as a scripting language:
