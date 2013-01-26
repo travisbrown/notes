@@ -43,7 +43,7 @@ The end of the section is even worse:
 > innate concept. _Carburetor_ is the perfect cultural example, in its
 > specific evocation of the Fordist ordering of production and its suggestion
 > that the modern vehicle itself and its processes of production are an
-> essential part of human being. (92)
+> essential part of human being. (72)
 
 This already makes no sense to me, but Golumbia immediately doubles down on
 the non sequitur:
