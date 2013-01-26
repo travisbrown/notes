@@ -86,6 +86,41 @@ The following may at least be true:
 But the causes of the problem are a lot more complicated than "Chomsky is a
 secret imperialist patriarch".
 
+Programming paradigms
+---------------------
+
+I'm happy to see Golumbia ragging on object-oriented programming:
+
+> Today, OOP is the dominant mode in programming, for reasons that have much
+> more to do with engineering presumptions and ideologies than with
+> computational efficiency (some OOP languages like Java have historically
+> performed less well than other languages, but are preferred by engineers
+> because of how closely they mirror the engineering idealization about how
+> the world is put together). (209)
+
+Even if he seems to be mixing up limitations of specific languages and
+implementations with deeper problems with the paradigm:
+
+> In the world of computers, though, objects do fit unto hierarchies neatly,
+> even if it is conceptually clear that the fit is poor. In the abstract
+> example just offered, it is easy to see that the sub-class "pterodactyl"
+> might just as reasonably fit into "reptilian" as it does into "avian"; but
+> in the programmatic reality of the computer this conceptual observation is
+> unimportant. For the purposes of the program a pterodactyl just _is_ an
+> avian and is therefore not a reptile. (210)
+
+And picks non-obvious alternatives to highlight:
+
+> The world's hierarchies do not achieve metaphysical "reality" even when they
+> are socially as real as can be; questions like who has social power and who
+> does not have it turn out to be extremely vexing on close analysis. Nothing
+> of the sort is true in computational hierarchies. Everything either fits or
+> does not fit. Because the facts are so apparent in the conceptualizations
+> underlying OOP, computer scientists have proposed alternate models that are
+> less objectifying, including "Aspect-Oriented Programming" or AOP (see,
+> e.g., Filman, Elrad, Clarke, and Aksit 2004) and "Subject-Oriented
+> Programming" or SOP (see, e.g., Harrison and Ossher 1993). (210)
+
 The silly
 ---------
 
@@ -107,4 +142,13 @@ Computationalism" chapter, but for now this can go here:
 
 > ...(and even Chomsky's formalism, arguably the most hierarchical of current
 > linguistic theories, seems irreconcilable with anything like OHCO). (107)
+
+I've read the following four or five times in context and still have no idea
+what he's on about:
+
+> Wal-Mart prides itself on developing computer systems that are used today by
+> many corporations, even if it usually takes advantage of these systems in
+> proprietary systems that are used only metaphorically by others, or in
+> systems resembling the ones created by Wal-Mart, perhaps patented by it, and
+> then emulated by software companies and others. (174)
 
