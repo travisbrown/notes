@@ -2,7 +2,7 @@ The Cultural Logic of Computation
 =================================
 
 See [this exchange with Golumbia and others in response](http://storify.com/travisbrown/the-cultural-logic-of-computation)
-in response t my Saturday afternoon draft of these notes.
+to my Saturday afternoon draft of these notes.
 
 Chomsky's politics
 ------------------
